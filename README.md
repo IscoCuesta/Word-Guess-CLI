@@ -1,10 +1,10 @@
-## Word-Guess-CLI
+# Word-Guess-CLI
 
-# About
+## About
 this is a comand line interface game this is completley random *MOVIE TITLES*.
 
 
-# How it works
+## How it works
 It works by opening in your terminal the folder where you download the pakage and runing the Index.js file with node lake this: **Node Index.js**
 
 after that the comand line wil guide you throw.
